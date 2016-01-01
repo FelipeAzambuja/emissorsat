@@ -1,2 +1,2 @@
-# emissorsat
-Emissor Gratuito para o S@T CF-e
+# Emissor s@t
+Emissor Gratuito para o S@T CF-e.
